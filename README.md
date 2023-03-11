@@ -22,7 +22,6 @@
 #### Steps
 - Make a virtual environment using "conda create -n envname python=3.6 pip"
 - source activate envname (for mac/linux) | activate envname (for windows)
-- Download or clone this repo by [git clone https://github.com/aditya98ak/spam-ham-web-app.git](https://github.com/aditya98ak/spam-ham-web-app.git)
 - pip install -r requirements.txt
 - Run the app using python manage.py runserver
 
